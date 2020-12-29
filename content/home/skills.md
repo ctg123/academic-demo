@@ -42,4 +42,21 @@ feature:
   icon_pack: "custom"
   name: "C/C++"
   description: "90%"
+
+- icon: "go-programming"
+  icon_pack: "custom"
+  name: "Go"
+  description: "90%"
+
+- icon: "mobo-design"
+  icon_pack: "custom"
+  name: "PCB Design and Electronics Prototyping"
+  description: "90%"
+
+- icon: "team-lead"
+  icon_pack: "custom"
+  name: "Team Leadership"
+  description: "90%"
+
 ---
+
