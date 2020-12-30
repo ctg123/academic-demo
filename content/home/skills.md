@@ -30,9 +30,9 @@ feature:
   name: Photography
 
 # Uncomment to use emoji icons.
-- icon: ":smile:"
+- icon: "🥇"
   icon_pack: "emoji"
-  name: "Emojiness"
+  name: "Leadership"
   description: "100%"  
 
 # Uncomment to use custom SVG icons.
@@ -51,11 +51,6 @@ feature:
 - icon: "mobo-design"
   icon_pack: "custom"
   name: "PCB Design and Electronics Prototyping"
-  description: "90%"
-
-- icon: "team-lead"
-  icon_pack: "custom"
-  name: "Team Leadership"
   description: "90%"
 
 ---
